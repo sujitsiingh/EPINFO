@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Questrial', sans-serif;
+}
+
+a{
+    color: white ;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+::-webkit-scrollbar {
+    width: 0.4rem;
+    height: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    /* border: 1px solid black; */
+    border-radius: 8px;
+    background: #ababac;
+}
+
+hr{
+    margin: 0 4rem;
+}
+
+li {
+    list-style: none;
+}
